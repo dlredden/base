@@ -1,16 +1,16 @@
 import React from 'react';
 
-export const Loading = () => (
+const Loading = () => (
   <svg
     version="1.1"
-    className="loading"
+    className="Loading"
     xmlns="http://www.w3.org/2000/svg"
     x="0px"
     y="0px"
     width="40px"
     height="40px"
     viewBox="0 0 40 40"
-    enable-background="new 0 0 40 40">
+    enableBackground="new 0 0 40 40">
       <path
       opacity="1.0"
       fill="#eee"
@@ -26,3 +26,5 @@ export const Loading = () => (
     </path>
   </svg>
 );
+
+export default Loading;
