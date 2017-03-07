@@ -62,35 +62,22 @@
     }
   },
   "dependencies": {
-<<<<<<< HEAD
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^3.3.7",
     "eslint": "^2.13.1",
     "eslint-plugin-import": "^1.10.2",
     "eslint-plugin-jsx-a11y": "^1.5.3",
     "eslint-plugin-react": "^5.2.2",
     "jquery": "^2.2.4",
-    "jquery-validation": "^1.15.0",
-    "mobx": "^2.3.5",
-    "react": "^15.2.0",
-    "react-addons-pure-render-mixin": "^15.0.2",
-    "react-bootstrap": "^0.29.5",
-    "react-dom": "^15.2.0",
-    "react-komposer": "^1.8.0",
-    "react-router": "^2.5.2",
-    "react-router-bootstrap": "^0.23.0"
-=======
-    "babel-runtime": "^6.18.0",
-    "bcrypt": "^0.8.7",
-    "bootstrap": "^3.3.7",
-    "jquery": "^2.2.4",
     "jquery-validation": "^1.15.1",
+    "mobx": "^2.3.5",
     "react": "^15.3.2",
     "react-addons-pure-render-mixin": "^15.3.2",
     "react-bootstrap": "^0.30.5",
     "react-dom": "^15.3.2",
     "react-komposer": "^1.13.1",
     "react-router": "^3.0.0",
-    "react-router-bootstrap": "^0.23.1"
->>>>>>> 88edf133900e59e004983f28443642e6a92f35cf
+    "react-router-bootstrap": "^0.23.1",
+    "babel-runtime": "^6.18.0",
+    "bcrypt": "^0.8.7"
   }
 }
